@@ -30,4 +30,6 @@ BMI_calculator <- function(weight, height) {
 }
 
 BMI_calculator(60,1.65)
+
+#THIS is a change in my BMI script
   
